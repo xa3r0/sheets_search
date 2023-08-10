@@ -1,0 +1,5 @@
+sheets_search/
+|-- manifest.json
+|-- popup.html
+|-- popup.js
+|-- background.js
